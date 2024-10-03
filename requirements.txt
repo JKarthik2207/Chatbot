@@ -1,3 +1,4 @@
 Flask
 langchain-openai
 gunicorn
+flask_cors
